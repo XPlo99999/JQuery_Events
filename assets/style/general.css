@@ -1,0 +1,11 @@
+
+body {
+    background-color: lightgrey;
+}
+
+a {
+    cursor: pointer;
+    border: 3px solid blueviolet;
+    background-color: white;
+    margin: 10px;
+}
